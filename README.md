@@ -1,2 +1,2 @@
 # SortingAlgorithm
-Algorithm libraries to sort data of the same type.
+Sorting Algorithms library to sort arrays of integers.
