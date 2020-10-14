@@ -12,7 +12,7 @@ int main(){
     int * res = (int *)malloc(sizeof(int )*9);
     res = selectionSort(array,9);
 
-
+    free(res);
 
     return 0;
 }

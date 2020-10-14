@@ -2,7 +2,6 @@
 // Created by Flavio Moreira on 11/10/2020.
 //
 #ifndef SORTINGALGORITHMS_SELECTIONSORT_H
-
 #define SORTINGALGORITHMS_SELECTIONSORT_H
 
 /**

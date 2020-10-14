@@ -11,7 +11,6 @@ int * selectionSort(int *array, const int& arraySize) {
 
     for (int i = 0; i < arraySize; ++i) {
         //print log
-        //printArray(array, arraySize);
 
         //Find the smallest number and swap it with the current array[i]
         for (int j = unsortedOffset; j < arraySize; ++j) {
